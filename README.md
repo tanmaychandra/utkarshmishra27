@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **[Gmail](utkarshmishra.fl@gmail.com)[Instagram](https://www.instagram.com/utkarssssshh/)[LinkedIn](https://www.linkedin.com/in/utkarsh-mishra-60ab4922a)**
+- 📫 How to reach me **[Gmail](utkarshmishra.fl@gmail.com)  [Instagram](https://www.instagram.com/utkarssssshh/)  [LinkedIn](https://www.linkedin.com/in/utkarsh-mishra-60ab4922a)**
 
 - ⚡ Fun fact **I'm a pro procastinator**
 
