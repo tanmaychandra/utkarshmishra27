@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
-<h3 align="center">A Electronics and Communication undergrad from India</h3>
+<h3 align="center">An Electronics and Communication undergrad from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmishra27&label=Profile%20views&color=022bf7&style=plastic" alt="utkarshmishra27" /> </p>
 
