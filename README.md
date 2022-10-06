@@ -2,9 +2,10 @@
 <h3 align="center">A Electronics and Communication undergrad from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmishra27&label=Profile%20views&color=022bf7&style=plastic" alt="utkarshmishra27" /> </p>
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshmishra27" alt="utkarshmishra27" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🌱 I’m currently learning **Javascript,React,Node.js,Angular**
 
